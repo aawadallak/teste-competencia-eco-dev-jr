@@ -12,7 +12,7 @@
 ## Counting Valleys
 
 <p> 
-  Começamos tratando os valleys como 0, e atribuindo-os a uma varíavel "valleys" assim como as elevações .Percorremos um for onde "i" é menor que a quantiade de passos.
+  Começamos tratando os valleys como 0, e atribuindo-os a uma varíavel "valleys" assim como as elevações, percorremos um for onde "i" é menor que a quantiade de passos.
 
   Se para cada index for encontrado a string "D", diminuimos a elevação, do contrário aumentamos. Ainda dentro do nosso laço de repetição que trata a segunda condição, aplicamos mais uma regra, onde checamos se a elevação é menor que "-1", assim teriamos um "valley", então aumentamos a variável
   responsável pela contagem de valleys.
