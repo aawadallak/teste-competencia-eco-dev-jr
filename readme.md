@@ -3,7 +3,7 @@
 <p>
   O teste cabe em realizar os três desafios do HackerRank:
 
-  1. https:/www.hackerrank.com/challenges/counting-valleys/problem (Logica)
+  1. https://www.hackerrank.com/challenges/counting-valleys/problem (Logica)
   2. https://www.hackerrank.com/challenges/more-than-75-marks/problem (SQL teste) 
   3. https://www.hackerrank.com/challenges/repeated-string/problem (logica)
 
